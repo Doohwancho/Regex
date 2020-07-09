@@ -11,3 +11,5 @@ answer : ^[^d|r|p]+
 | : or
 
 
+
+answer2: [^drp]an
